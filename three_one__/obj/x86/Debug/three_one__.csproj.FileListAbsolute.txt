@@ -1,0 +1,44 @@
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.Form1.resources
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\three_one__.exe
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\three_one__.pdb
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\office.dll
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\Microsoft.Office.Interop.Excel.xml
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\bin\Debug\office.xml
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.exe
+c:\users\kirill\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.pdb
+C:\Users\KIRILL\documents\visual studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.exe
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\bin\Debug\three_one__.exe
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\bin\Debug\three_one__.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.Form1.resources
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.exe
+C:\Users\Кирилл\Documents\Visual Studio 2010\Projects\three_one__\three_one__\obj\x86\Debug\three_one__.pdb
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\three_one_версия_3.exe
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\three_one_версия_3.pdb
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\office.dll
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\bin\Debug\office.xml
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.csprojResolveAssemblyReference.cache
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.Form1.resources
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.Properties.Resources.resources
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.csproj.GenerateResource.Cache
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.exe
+C:\Users\Кирюха\Documents\Visual Studio 2010\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\bin\Debug\three_one_версия_3.exe
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\bin\Debug\three_one_версия_3.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.Form1.resources
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one__.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2010\Visual Studio 17_01_2017\Для АВ_ от 14.12.16\three_one__\obj\x86\Debug\three_one_версия_3.exe
